@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nourkessentini
 - 👀 I’m interested in IT, coding, testing...
-- 🌱 I’m currently learning IT in IUT de Bayonne te du Pays Basque
+- 🌱 I’m currently learning IT in IUT de Bayonne et du Pays Basque
